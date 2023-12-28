@@ -1,0 +1,43 @@
+/* pages/form/form.wxss */
+.forms {
+  padding: 0 30rpx;
+}
+.container {
+  position: relative;
+  width: 100%;
+  padding: 20rpx;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 40rpx;
+  }
+  .title.text {
+    display: block;
+    font-size: 48rpx;
+    color: #000;
+    }
+
+  .item {
+      height: 65rpx;
+      background-color: #fff;
+      border: solid 1rpx #dddddd;
+      border-radius: 10rpx;
+      padding: 0 10rpx;
+      margin-bottom: 20rpx;
+      display: flex;
+      align-items: center;
+  }
+  .item.text {
+    color: #ff0000;
+    display: inline-block;
+    width: 30rpx;
+    font-size: 24rpx;
+  }
+  .item.weui-input {
+    font-size: 28rpx;
+  }
+  .item.input-placeholder {
+    color: #999;
+  }
+ 

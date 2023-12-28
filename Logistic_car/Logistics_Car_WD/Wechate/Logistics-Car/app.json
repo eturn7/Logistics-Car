@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/event/event",
+    "pages/form/form",
+    "pages/format/format",
+    "pages/Login/Login",
+    "pages/Logup/Logup"
+
+  ],
+  "window": {
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#f07",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "智能宿舍用户端系统",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

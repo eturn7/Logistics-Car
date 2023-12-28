@@ -1,0 +1,15 @@
+/* pages/format/format.wxss */
+.text{
+  width: auto;
+  height: 80rpx;
+  font-weight: bold;
+  font-size: larger;
+  /* background: pink; */
+  text-align: center;
+  top: 30rpx;
+}
+.container image{
+  width: 650rpx;
+  height: 650rpx;
+  padding: 10rpx;
+}

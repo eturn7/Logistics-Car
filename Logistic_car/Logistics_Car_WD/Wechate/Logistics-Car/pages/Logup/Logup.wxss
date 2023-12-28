@@ -1,0 +1,6 @@
+/* pages/Logup/Logup.wxss */
+.log_up{
+  width: 15%;
+  height: 90rpx;
+  top: 130rpx;
+}

@@ -1,0 +1,6 @@
+<!--pages/format/format.wxml-->
+<view class="text">个人信息码</view>
+<view class="container">
+    <!-- <image wx:for="{{QRC_img}}" src="{{item}}" ></image> -->
+    <image src="{{image_filepath}}"></image>
+</view>

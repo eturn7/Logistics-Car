@@ -1,0 +1,8 @@
+/* pages/Login/Login.wxss */
+
+/* 登陆页面 */
+.log_in{
+  width: 15%;
+  height: 90rpx;
+  top: 150rpx;
+}

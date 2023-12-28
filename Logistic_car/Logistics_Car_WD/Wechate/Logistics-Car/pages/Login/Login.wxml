@@ -1,0 +1,8 @@
+<!--pages/Login/Login.wxml-->
+<view>邮箱：</view>
+<input value="{{mail}}" bindinput="bindmail" placeholder="请输入邮箱"></input>
+<view>密码：</view>
+<input value="{{password}}" bindinput="bindpassword" placeholder="请输入密码"></input>
+<view>
+    <view><button class="log_in" type="primary" bindtap="jumpPage_login_t">log in</button></view>
+</view>
